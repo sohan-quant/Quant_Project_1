@@ -1,0 +1,4 @@
+run_timestamp,run_id,ticker,start_date,end_date,spike_threshold,spike_window,decay_horizon,train_ratio,n_estimators,max_depth,vix_threshold,n_spikes_detected,signal_half_life,cv_accuracy_mean,cv_accuracy_std,test_accuracy,test_precision,test_recall,sharpe_full,sharpe_high_vix,sharpe_low_vix,hit_rate,max_drawdown,final_strategy_val,final_market_val
+2026-03-24 02:52:37,20260324_025237,AAPL,2020-01-01,2024-12-31,1.5,8,10,0.8,100,5,20,0,1,0.4037,0.2288,0.5265,0.5625,0.7714,1.4568,-2.064,1.7955,0.4408,-0.1548,12791.58,13611.66
+2026-04-06 20:18:09,20260406_201809,AAPL,2020-01-01,2024-12-31,1.5,8,10,0.8,100,5,20,0,1,0.4037,0.2288,0.5265,0.5625,0.7714,1.4568,-2.064,1.7955,0.4408,-0.1548,12791.58,13611.66
+2026-04-06 20:50:37,20260406_205037,AAPL,2020-01-01,2024-12-31,1.5,8,10,0.8,100,5,20,0,1,0.4037,0.2288,0.5265,0.5625,0.7714,1.4568,-2.064,1.7955,0.4408,-0.1548,12791.58,13611.66
