@@ -3,5 +3,5 @@ Attention Driven Momentum Decay ~ A personal quantitative research project explo
 
 Built as part of self-directed exploration into quantitative signal research.  
 
-Feedback and suggestions welcome via Issues or LinkedIn.
+Feedback and suggestions welcome via Issues or LinkedIn. (www.linkedin.com/in/sohan-kumar-006599220)
 
